@@ -12,7 +12,6 @@
 
 # 🏆 Achievements:
 - 🥇 **Winner** – Quantiphi AI Automation Hackathon, 2024  
-- 🥈 **Runner-up** – Mumbai Hacks, 2024  
 - 🌟 **Top 20** – Smart India Hackathon (SIH), 2024  
 - 🥈 **Runner-up** – ULECTRO Project Display Competition, 2025
 - 🥈 **Runner-up** – Proxima Project Pitching Competition, 2025
