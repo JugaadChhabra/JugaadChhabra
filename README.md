@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently exploring 3d modelling and the latest AI trends<br>💬 Ask me about Game Dev, Python, App Dev or anything in Tech<br>📫 Reach out to me at jugaad.chhabra@gmail.com<br>🧑‍💻 My Website - 
+🌱 I’m currently exploring game art and deep learning<br>💬 Ask me about Game Dev, Python, App Dev or anything in Tech<br>📫 Reach out to me at jugaad.chhabra@gmail.com<br>🧑‍💻 My Website - 
 
 
 ## 🌐 Socials:
