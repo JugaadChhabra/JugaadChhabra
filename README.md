@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently exploring game art and deep learning<br>💬 Ask me about Game Dev, Python, App Dev or anything in Tech<br>📫 Reach out to me at jugaad.chhabra@gmail.com<br>🧑‍💻 My Website - [jugaadchhabra.dev](https://jugaadchhabra.dev/)
+🌱 I’m currently exploring the stock market and deep learning<br>💬 Ask me about Game Dev, Python or anything in Tech<br>📫 Reach out to me at jugaad.chhabra@gmail.com<br>🧑‍💻 My Website - [jugaadchhabra.dev](https://jugaadchhabra.dev/)
 
 
 ## 🌐 Socials:
