@@ -22,4 +22,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JugaadChhabra&theme=dark&hide_border=false)<br/>
 
 
-<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1a1b27&color=bb9af7&line=f7768e&point=7aa2f7&area=true&hide_border=true" />
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=true" />
