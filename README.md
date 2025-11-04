@@ -19,6 +19,6 @@
 
 
 # 📊 GitHub Stats:
-<img align="left" width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=false&border_color=ffffff" /><br/>
+<img align="left" width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=false&border_color=ffffff" /> <br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=JugaadChhabra&theme=dark&hide_border=false)
