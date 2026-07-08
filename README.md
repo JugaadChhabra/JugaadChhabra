@@ -1,20 +1,27 @@
-# About Me:
-🌱 I’m currently exploring the stock market and deep learning<br>📫 Reach out to me at jugaad.chhabra@gmail.com<br>🧑‍💻 My Website - [jugaadchhabra.dev](https://jugaadchhabra.dev/)
+<h1 align="center">Jugaad Chhabra</h1>
 
+<p align="center">
+  <a href="https://jugaadchhabra.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=FF9800&center=true&vCenter=true&width=600&height=45&lines=Backend+%26+AI+Engineer;I+build+agentic+LLM+systems+that+run+unattended;Production+backends%2C+real+users%2C+not+demos" alt="Jugaad Chhabra" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jugaad-chhabra-1a533a241) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jugaad.chhabra@gmail.com) 
+Currently Backend & AI Engineer @ Neela Mediatech. Final-year Computer Engineering @ NMIMS MPSTME, Mumbai.
 
+### What I'm building
+- **[Midas](https://github.com/JugaadChhabra/Midas)** — LLM autopilot that rewrites and optimizes YouTube metadata across 12 channels. Runs on its own.
+- **[Argus](https://argus.jugaadchhabra.dev)** — AI creative-ops & QC platform, used daily by a studio team. ([code](https://github.com/JugaadChhabra/Argus))
+- **[Multilingual Dub](https://autodub.jugaadchhabra.dev)** — one English script → voice-overs in 18 languages, hands-off. ([code](https://github.com/JugaadChhabra/MultiLingual-Dub))
 
-# 🏆 Achievements:
-- 🥇 **Winner** – Quantiphi AI Automation Hackathon, 2024
-- 🥇 **Winner** – Build for Billions NIT-Karnataka Hackathon, 2025
-- 🥈 **Runner-up** – Mumbai Hacks, 2024  
-- 🥈 **Runner-up** – ULECTRO Project Display Competition, 2025
-- 🥈 **Runner-up** – Proxima Project Pitching Competition, 2025
+### Tech
+Python · FastAPI · LangGraph · RAG / pgvector · PostgreSQL · Redis · Docker · React / TypeScript
 
+### Achievements
+- 🥇 Winner — Build for Billions, NIT Karnataka (2025)
+- 🥇 Winner — Quantiphi CodeQraft (2024)
+- 🥈 Runner-up — U'lectro (2025), Proxima Pitch (2025), Mumbai Hacks (2024)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=JugaadChhabra&theme=dark&hide_border=false)<br/>
+### Reach me
+[Portfolio](https://jugaadchhabra.dev) · [LinkedIn](https://linkedin.com/in/jugaad-chhabra-1a533a241) · [Email](mailto:jugaad.chhabra@gmail.com)
 
-<img align="left" width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=false&border_color=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=false&border_color=ffffff" width="100%" />
