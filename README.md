@@ -6,12 +6,12 @@
   </a>
 </p>
 
-Currently Backend & AI Engineer @ Neela Mediatech. Final-year Computer Engineering @ NMIMS MPSTME, Mumbai.
+Automating creative workflows @Neela Mediatech.
 
 ### What I'm building
-- **[Midas](https://github.com/JugaadChhabra/Midas)** — LLM autopilot that rewrites and optimizes YouTube metadata across 12 channels. Runs on its own.
+- **[Midas](https://github.com/JugaadChhabra/Midas)** — LLM autopilot that rewrites and optimizes YouTube metadata for all your channels.
 - **[Argus](https://argus.jugaadchhabra.dev)** — AI creative-ops & QC platform, used daily by a studio team. ([code](https://github.com/JugaadChhabra/Argus))
-- **[Multilingual Dub](https://autodub.jugaadchhabra.dev)** — one English script → voice-overs in 18 languages, hands-off. ([code](https://github.com/JugaadChhabra/MultiLingual-Dub))
+- **[Autodub](https://autodub.jugaadchhabra.dev)** — Multi-lingual speech generation platform that lets you generate audio in 16 languages using just one Script ([code](https://github.com/JugaadChhabra/MultiLingual-Dub))
 
 ### Tech
 Python · FastAPI · LangGraph · RAG / pgvector · PostgreSQL · Redis · Docker · React / TypeScript
