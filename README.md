@@ -23,5 +23,3 @@ Python · FastAPI · LangGraph · RAG / pgvector · PostgreSQL · Redis · Docke
 
 ### Reach me
 [Portfolio](https://jugaadchhabra.dev) · [LinkedIn](https://linkedin.com/in/jugaad-chhabra-1a533a241) · [Email](mailto:jugaad.chhabra@gmail.com)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JugaadChhabra&bg_color=1b1b1b&color=ffffff&line=ff9800&point=ff9800&area=true&hide_border=false&border_color=ffffff" width="100%" />
