@@ -1,7 +1,7 @@
 <h1 align="center">Jugaad Chhabra</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JugaadChhabra/JugaadChhabra/main/assets/terminal-banner.svg" alt="terminal banner" />
+  <img src="https://raw.githubusercontent.com/JugaadChhabra/JugaadChhabra/main/terminal-banner.svg" alt="terminal banner" />
 </p>
 
 <p align="center">
