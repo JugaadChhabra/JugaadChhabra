@@ -1,11 +1,11 @@
 <h1 align="center">Jugaad Chhabra</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/JugaadChhabra/JugaadChhabra/main/terminal-banner.svg" alt="terminal banner" />
-</p>
+</p> -->
 
 <p align="center">
-  Shipping agentic AI systems and live game backend infra @Neela Mediatech — production, not demos.
+  Shipping agentic AI systems and live game backend infra @TMKOC.
 </p>
 
 ### What I'm building
