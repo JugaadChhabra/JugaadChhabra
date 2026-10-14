@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  Shipping agentic AI systems and live game backend infra @TMKOC.
+  Shipping AI agents and backend infra @TMKOC.
 </p>
 
 ### What I'm building
