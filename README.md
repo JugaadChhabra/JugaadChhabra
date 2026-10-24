@@ -10,9 +10,8 @@
 
 ### What I'm building
 - **[Midas](https://github.com/JugaadChhabra/Midas)** — LLM autopilot that rewrites and optimizes YouTube metadata for all your channels.
-- **[Argus](https://argus.jugaadchhabra.dev)** — AI creative-ops & QC platform, used daily by a studio team.
-- **[Autodub](https://autodub.jugaadchhabra.dev)** — Multi-lingual speech generation platform that lets you generate audio in 18 languages using just one script
 - **[Aroa](https://apps.apple.com/in/app/aroa-mindful-phone-usage/id6761726844)** — Making you more aware of your phone usage.
+- **[Reelaxe](https://reelaxe.in)** - Your personal clipping agency.
 
 ### Tech
 Python · FastAPI · LangGraph · RAG / pgvector · PostgreSQL · Redis · Docker · React / TypeScript
